@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 라보용달 이용방
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**라보용달,라보퀵서비스** 이용을 원하실 때는 대표번호 1661-4262 전화 주시면 친절한 상담원이 상담해 드립니다.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+365일 예약건에 한해서는 **24시간 이용하실수 있습니다.** 카드결제 가능하며 카드결제시 **부가세별도** 입니다.
